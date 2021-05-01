@@ -1,6 +1,8 @@
 sooso
 super funky
+<<<<<<< HEAD
 MasterEdit
+=======
 Feature
 Feature 1
 Feature 2
