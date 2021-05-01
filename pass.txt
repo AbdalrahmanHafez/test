@@ -1,6 +1,5 @@
 sooso
 super funky
 MasterEdit
-MasterBranch Edit1
-MasterBranch Edit2
-MasterBranch Edit3
+MasterBranch Edit Finaly
+
